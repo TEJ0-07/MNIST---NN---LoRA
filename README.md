@@ -24,4 +24,4 @@ A simple Neural Network built with PyTorch to classify handwritten digits from t
 
 ```bash
 pip install -r requirements.txt
-python train.py
+jupyter notebook
